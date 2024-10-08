@@ -11,6 +11,7 @@
 *.dae                   lfs
 *.dxf                   lfs
 *.mp3 					lfs
+*.mp4
 
 #Fin linea Windows
 *.sln text eol=crlf
